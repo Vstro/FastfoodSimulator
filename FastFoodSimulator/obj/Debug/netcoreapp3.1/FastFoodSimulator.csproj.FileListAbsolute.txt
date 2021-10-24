@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\bin\Debug\netcoreapp3.1\FastFoodSimulator.exe
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\bin\Debug\netcoreapp3.1\FastFoodSimulator.deps.json
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\bin\Debug\netcoreapp3.1\FastFoodSimulator.runtimeconfig.json
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\bin\Debug\netcoreapp3.1\FastFoodSimulator.runtimeconfig.dev.json
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\bin\Debug\netcoreapp3.1\FastFoodSimulator.dll
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\bin\Debug\netcoreapp3.1\FastFoodSimulator.pdb
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.MainForm.resources
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.AssemblyInfo.cs
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.dll
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.pdb
+C:\Users\user\source\repos\FastFoodSimulator\FastFoodSimulator\obj\Debug\netcoreapp3.1\FastFoodSimulator.genruntimeconfig.cache
